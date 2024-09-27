@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="db_luan_goncalves"/>
+  <table-filter match-name="produtos_lgo"/>
+  <table-filter match-name="cliente_lgo"/>
+  <table-filter match-name="usuarios_lgo"/>
+  <table-filter match-name="venda_lgo"/>
+  <table-filter match-name="vendedor_lgo"/>
+</hibernate-reverse-engineering>
